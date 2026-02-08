@@ -8,7 +8,7 @@ Each project includes data cleaning, transformation, visualization, insights, an
 
 #  Projects Included
 
-##  Project 1 — Supermarket Sales Analysis
+##  Project 1:  Supermarket Sales Analysis
 **Domain:** Retail  
 - Daily sales trend  
 - Product line performance  
@@ -18,7 +18,7 @@ Each project includes data cleaning, transformation, visualization, insights, an
 
 ---
 
-##  Project 2 — Student Performance Analysis  
+##  Project 2:  Student Performance Analysis  
 **Domain:** Education  
 - Pass/fail rate  
 - Subject-wise performance  
@@ -28,7 +28,7 @@ Each project includes data cleaning, transformation, visualization, insights, an
 
 ---
 
-##  Project 3 — Weather Data Analysis  
+##  Project 3:  Weather Data Analysis  
 **Domain:** Meteorology  
 - Temperature trend  
 - Seasonal patterns  
@@ -38,7 +38,7 @@ Each project includes data cleaning, transformation, visualization, insights, an
 
 ---
 
-##  Project 4 — COVID-19 Trends Analysis  
+##  Project 4:  COVID-19 Trends Analysis  
 **Domain:** Healthcare  
 - Daily cases, deaths, recoveries  
 - 7-day moving average  
@@ -48,7 +48,7 @@ Each project includes data cleaning, transformation, visualization, insights, an
 
 ---
 
-##  Project 5 — Stock Market Analysis  
+##  Project 5:  Stock Market Analysis  
 **Domain:** Finance  
 - Closing price trend  
 - 30-day moving average  
